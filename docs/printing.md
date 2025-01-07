@@ -97,6 +97,8 @@ There's only one option for the faceplate now. If you don't want an LED in the s
 |VZ-Hextrudort-Low | [EBB36 Mount - VZ-Hextrudort-Low.stl](<../STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low.stl>) | [EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl](<../STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl>) |
 | LGX-Lite | {todo} | {todo} |
 |Orbiter v2.0 | [EBB36 Mount - Orbiter2.0.stl](<../STL/EBB Mounts/EBB36 Mount - Orbiter2.0.stl>) | [EBB36 Mount - Orbiter2.0 [strain relief].stl](<../STL/EBB Mounts/EBB36 Mount - Orbiter2.0 [strain relief].stl>) |
+|WWBMG | [EBB36 Mount - WWBMG.stl](<../STL/EBB Mounts/EBB36 Mount - WWBMG.stl>) | [EBB36 Mount -WWBMG [strain relief].stl](<../STL/EBB Mounts/EBB36 Mount -WWBMG [strain relief].stl>) |
+
 
 
 ### M2.5 Savers
